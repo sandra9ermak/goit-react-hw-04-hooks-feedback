@@ -1,0 +1,10 @@
+.liItem {
+  font-weight: 600;
+  font-size: 25px;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+}
+
+.liItem:not(:last-child) {
+  margin-bottom: 10px;
+}
